@@ -1,0 +1,243 @@
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\\Customers\\Fidea\\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\\Customers\\Fidea\\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\\Customers\\Fidea\\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf.pdf pageCount = 5
+E:\\Customers\\Fidea\\190515_6.1.4_M1.5_emails in error_ONLYPDF\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\directory1\samplepdf.pdf pageCount = 5
+E:\Customers\Fidea\190515_6.1.4_M1.5_emails in error_ONLYPDF\directory2\samplepdf2.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 56handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 56handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 56handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 56handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 56handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 56handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 58handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 58handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 58handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 58handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 58handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 58handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 62handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 62handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+E:\Customers\Fidea\PDFsTestDocuments\10_07_2018_______9718_9083_1601_______BR\10_07_2018_______9718_9083_1601_______BR.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 62handled
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict.pdf pageCount = 7
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\30873112-bddd-486d-a7f8-2bb42812a82c.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\9f87692c-9102-4226-af14-68555c0d9c80.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\c373a73c-d4cd-4c5d-93e7-a817eec3a2b8.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur3.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Factuur4.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\16FC032052_-_Ruben_SCHELLINCK_-_ref_Vict\Logo.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\17FC029911__SPJ850823417__1560501303639.pdf pageCount = 4
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\f92c8470-f436-4072-b614-ac4300c14beb.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\17FC029911__SPJ850823417_\rekeninghospitaal-217113008350613496.pdf pageCount = 2
+E:\Customers\Fidea\PDFsTestDocuments\18FC035520_-_Robert_HUYBERECHTS\18FC035520_-_Robert_HUYBERECHTS_15605014.pdf pageCount = 1
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\19FC001394_-_Dhr_Cas_DE_HAES_15605013344.pdf pageCount = 9
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 62handled
+E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
