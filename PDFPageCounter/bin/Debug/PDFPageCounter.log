@@ -241,3 +241,143 @@ Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
    at PdfiumViewer.PdfDocument.Load(String path)
    at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 62handled
 E:\Customers\Fidea\PDFsTestDocuments\19FC001394_-_Dhr_Cas_DE_HAES\FID1271_2019-04-24_07-13-19.pdf pageCount = 6
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 54 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
+Exception PdfiumViewer.PdfException: File not in PDF format or corrupted
+   at PdfiumViewer.PdfFile..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument..ctor(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(Stream stream, String password)
+   at PdfiumViewer.PdfDocument.Load(String path, String password)
+   at PdfiumViewer.PdfDocument.Load(String path)
+   at PDFPageCounter.Program.Main(String[] args) in E:\Projects\PDFPageCounter\PDFPageCounter\Program.cs:line 57 caught
